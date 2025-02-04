@@ -28,3 +28,14 @@ To exactly see the changes made on a single single file:
 To stage the changes: 
 
     git add <filename>
+
+To commit the changes:
+
+    git commit -m "commit message"
+
+To push the changes:
+    
+    git push origin <sourceBranch>
+
+        Class01 -> main
+        ex: git push origin Class01
